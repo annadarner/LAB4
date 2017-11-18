@@ -1,0 +1,207 @@
+body {
+	width:100%;
+	text-align: center;
+
+}
+
+h3 { 
+text-align: center;
+font-size: 48px;
+text-transform: uppercase;
+font-family: open sans, helvetica;
+margin-bottom: 10px;
+}
+
+a {
+	text-decoration: none;
+	display: inline;
+}
+
+#text {
+	width:80%;
+	margin:auto;
+	font-weight: normal;
+	overflow: hidden;
+	font-size: 14px;
+	margin-top: 20px;
+	max-width: 950px;
+	line-height: 20px;
+}
+
+.t1 {
+	float:left;
+	width:49%;
+}
+.t2 {
+	float:right;
+	width:49%;
+}
+
+#browse {
+	width: 60%;
+	margin:auto;
+	font-weight: normal;
+	overflow: hidden;
+
+}
+
+.t3 {
+	float:left;
+	width:50%;
+}
+.t4 {
+	float:left;
+	width:50%;
+}
+
+form {
+	margin-top:20px;
+}
+#mybooks {
+	width:90%;
+	margin: auto;
+}
+ul {
+	width:100%;
+	padding-bottom: 30px;
+	padding-top: 5px;
+	margin:auto;
+	margin-top: 20px;
+	padding-left: 0px;
+
+}
+
+li {
+	color:#000;
+	font-family: open sans, helvetica;
+	margin-bottom: 5px;
+	margin-top: 20px;
+	font-size:22px;
+	list-style: none;
+}
+
+li:hover {
+	font-weight: bold;
+}
+
+#fname {
+	display: block;
+	margin: auto;
+	margin-bottom: 10px;
+	width:50%;
+	
+}
+#lname {
+	display: block;
+	margin: auto;
+	margin-bottom: 20px;
+	width:50%;
+}
+#subject {
+	display: block;
+	margin: auto;
+	margin-bottom: 10px;
+	width:50%;
+}
+
+input {
+	width:90%;
+	font-family: open sans, helvetica;
+	margin-bottom: 20px;
+}
+
+
+label {
+	font-family: open sans, helvetica;
+}
+
+.booktitle {
+font-family: open sans, helvetica;
+font-size: 20px;
+}
+
+h4 {
+	font-size: 24px;
+	font-family: open sans, helvetica;
+	text-transform: uppercase;
+	margin-bottom: 0px;
+}
+
+td {
+	font-family: open sans, helvetica;
+}
+
+.contactbtn {
+	width:80px;
+	font: open sans, helvetica;
+		font-size: 14px;
+		color:#fff;
+		background-color: #bdbdbd;
+		padding:4px;
+		padding-left: 8px;
+		padding-right: 8px;
+		border:none;
+		text-transform: uppercase;
+}
+
+.contactbtn:hover {
+	background-color: #ababab;
+
+}
+
+	table {
+		margin: auto;
+		margin-top: 50px;
+
+	}
+
+	tbody {
+		
+		padding:30px;
+
+
+
+	}
+
+	td { 
+		padding:10px;
+	 }
+
+	.td1 {
+		text-transform: uppercase;
+		font-weight: bold;
+	}
+
+	.resbtn {
+		font: open sans, helvetica;
+		font-size: 14px;
+		color:#fff;
+		background-color: #bdbdbd;
+		padding:4px;
+		padding-left: 8px;
+		padding-right: 8px;
+		border:none;
+
+	}
+
+	.resbtn:hover {
+		background-color: #ababab;
+
+	}
+
+	
+
+	#bookgallery {
+		margin:auto;
+		display:block;
+		width:90%;
+		text-align: center;
+	}
+
+	.bookimg {
+		width:30%;
+		margin:10px;
+		box-sizing: border-box;
+
+	}
+
